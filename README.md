@@ -1,40 +1,84 @@
-# AI-Agents-for-Medical-Diagnostics
+Here's an enhanced and updated version of your README file for your **Health Assistance AI project** with better structure, clarity, and modern wording aligned with **Agentic AI concepts**:
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/b7c87bf6-dfff-42fe-b8d1-9be9e6c7ce86">
+---
 
-A Python project designed to create specialized LLM-based AI agents that analyze complex medical cases. The system integrates insights from various medical professionals to provide comprehensive assessments and personalized treatment recommendations, demonstrating the potential of AI in multidisciplinary medicine.
+# 🧠 AI Health Assist – Agentic AI for Multidisciplinary Medical Diagnostics
 
-## Current Version Overview
+<img width="900" alt="AI Health Assist Demo" src="img/schema.jpg">
 
-In the current version, we have implemented three AI agents using GPT-4o, each specializing in a different aspect of medical analysis. A medical report is passed to each of these agents, who then analyze the report simultaneously using threading, based on their specific area of expertise. Each agent provides recommendations and diagnoses from their perspective. After all AI agents complete their analyses, the results are combined and passed to a large language model, which summarizes the findings and identifies three potential health issues for the patient.
+An agentic AI-powered system designed to simulate a multidisciplinary team of medical specialists. This Python project leverages large language models (LLMs) like GPT-4o to create domain-specific AI agents—each offering expert-level assessments and personalized treatment suggestions. The collaborative intelligence of these agents demonstrates how AI can augment clinical decision-making across cardiology, psychology, and pulmonology.
 
-### AI Agents
+---
 
-**1. Cardiologist Agent**
+## 🚀 Project Overview
 
-- **Focus**: Identify any potential cardiac issues that could explain the patient's symptoms, including ruling out conditions such as arrhythmias or structural abnormalities that might not be apparent in initial evaluations.
-  
-- **Recommendation**: Suggest additional cardiovascular testing or continuous monitoring if necessary to uncover hidden heart-related problems. Provide management strategies if a cardiovascular issue is identified.
+In the current version, three autonomous AI agents operate in parallel using Python threading to analyze a shared medical report. Each agent specializes in a distinct field of medicine and contributes a unique perspective. Their outputs are then synthesized by a central LLM-based summarizer, which consolidates insights and highlights **three potential health issues** relevant to the patient.
 
-**2. Psychologist Agent**
+---
 
-- **Focus**: Determine if the symptoms align with a psychological condition, such as panic disorder or another anxiety-related issue. Assess the impact of stress, anxiety, and lifestyle factors on the patient’s overall condition.
-  
-- **Recommendation**: Recommend appropriate psychological interventions (e.g., therapy, stress management techniques) or medications to address the psychological aspects of the symptoms. Evaluate whether adjustments to the current psychological management are needed.
+## 🧩 Active AI Agents
 
-**3. Pulmonologist Agent**
+### 🫀 Cardiologist Agent
 
-- **Focus**: Assess whether symptoms like shortness of breath and dizziness are due to a respiratory condition, such as asthma or a breathing disorder, that could mimic cardiac symptoms.
-  
-- **Recommendation**: Suggest additional respiratory evaluations, such as lung function tests or exercise-induced bronchoconstriction tests, to rule out any underlying lung conditions. Recommend breathing exercises or other treatments if a respiratory issue is suspected.
+* **Objective**: Evaluate cardiac health and detect conditions like arrhythmias or structural abnormalities that might be overlooked in initial testing.
+* **Capabilities**: Recommends ECG, Holter monitoring, or imaging tests. Provides insights on heart-focused treatment strategies.
 
-## Future Enhancements
+### 🧘 Psychologist Agent
 
-In future versions, the system could expand to include a broader range of AI agents, each specializing in different medical fields, such as neurology, endocrinology, and immunology, to provide even more comprehensive analyses. These AI agents could be implemented using the [Assistant API from OpenAI](https://platform.openai.com/docs/assistants/overview) and use `function calling` and `code interpreter` capabilities to enhance their intelligence and effectiveness. Additionally, advanced parsing methodologies could be introduced to handle medical reports with more complex structures, allowing the system to accurately interpret and analyze a wider variety of medical data.
+* **Objective**: Identify psychological contributors such as anxiety, panic disorders, or stress-induced symptoms.
+* **Capabilities**: Suggests therapy methods, mindfulness practices, medication options, and behavioral strategies.
 
-## Repository Structure
+### 🌬️ Pulmonologist Agent
 
-- **Medical Reports Folder**: Contains a synthetic medical report of a patient with Panic Attack disorder.
-- **Results Folder**: Stores the outputs of the agentic system.
-  
-**To be able to run the code, please insert your OpenAI API key within the `apikey.env` file.**
+* **Objective**: Examine respiratory factors such as asthma, hyperventilation, or other pulmonary conditions mimicking cardiac symptoms.
+* **Capabilities**: Advises on spirometry, bronchial challenge testing, and provides guidance on breathing exercises or inhalers.
+
+---
+
+## 🛠️ Tech Stack & Agentic Workflow
+
+* **LLM**: OpenAI GPT-4o
+* **Methodology**: Concurrent agent execution with `threading`
+* **Agent Architecture**: Role-specific prompt engineering
+* **Final Summarizer**: Aggregates and deduplicates agent findings
+* **Data Handling**: Structured synthetic medical reports
+
+---
+
+## 🔮 Future Roadmap
+
+* **Expand Agent Pool**: Add specialists in neurology, endocrinology, gastroenterology, dermatology, and more.
+* **Integration with OpenAI Assistant API**: Utilize `function calling` and `code interpreter` for dynamic report parsing and tool execution.
+* **Advanced Medical Report Parsing**: Introduce semantic chunking and multimodal inputs (e.g., PDFs, lab charts, x-rays via OCR/Vision models).
+* **Patient Interaction**: Enable patient-side conversational interface for query resolution, appointment routing, and next-step planning.
+
+---
+
+## 📁 Repository Structure
+
+```bash
+.
+├── medical_reports/        # Sample or synthetic medical input files
+├── results/                # Output from agent evaluations
+├── agents/                 # Codebase for individual AI agents
+├── main.py                 # Orchestrator script
+├── apikey.env              # Your OpenAI API key goes here
+```
+
+> 💡 To run this project:
+> Add your OpenAI API key inside `apikey.env`.
+
+---
+
+## 👨‍⚕️ Target Use Cases
+
+* Early-stage symptom screening
+* Clinical decision support for general physicians
+* AI-assisted telemedicine consultations
+* Rural/remote health diagnostics where multi-specialty advice isn’t available
+
+---
+
+## 🧪 Disclaimer
+
+This tool is meant for **educational and experimental** use only. It does **not replace professional medical advice** or diagnosis. Always consult a licensed medical practitioner.
