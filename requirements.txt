@@ -5,3 +5,5 @@ langchain-experimental
 python-dotenv
 langchain_ollama
 reportlab
+google-generativeai
+python main.py
