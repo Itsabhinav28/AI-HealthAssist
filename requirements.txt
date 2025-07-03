@@ -6,4 +6,9 @@ python-dotenv
 langchain_ollama
 reportlab
 google-generativeai
-python main.py
+PyPDF2
+pdfplumber
+pytesseract
+Pillow
+pdf2image
+poppler-utils

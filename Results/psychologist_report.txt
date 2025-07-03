@@ -1,0 +1,26 @@
+### Psychologist Report:
+
+---
+Section: Patient and Report Overview
+- **Patient Identified:** Mrs. Preeti Mishra, a 52-year-old female, was the subject of this investigation.
+- **Report Details:** The sample was collected on September 14, 2023, and the report was completed on the same day.
+- **Facility:** The analysis was conducted at Primus Super Speciality Hospital, under the referral of Prof. C.S. Yadav.
+
+Section: Urinalysis Findings: Physical Characteristics
+- **Color and Appearance:** The urine sample presented with a healthy pale yellow color and a clear appearance, indicating normal physical properties.
+- **Volume Measured:** A specific volume of 50 units was measured, reflecting a positive assessment of sample quantity.
+
+Section: Urinalysis Findings: Chemical Analysis
+- **Excellent Chemical Profile:** The chemical examination yielded highly favorable results across multiple key indicators.
+- **Specific Gravity and pH:** The specific gravity was recorded at 1.030, indicative of good kidney concentration, and the pH was a balanced 6.0.
+- **Absence of Key Markers:** Crucially, there was no detection of Glucose, Protein, Nitrites, Blood, Bilirubin, Urobilinogen, Leucocyte Esterases, Ascorbic acid, or Ketones, all of which are positive signs for overall health.
+
+Section: Urinalysis Findings: Microscopic Examination
+- **Clear Microscopic View:** The microscopic examination revealed a very favorable profile.
+- **Minimal Cellular Presence:** Only a very small number of pus cells (0-1) and epithelial cells (1-2) were observed, which is a normal finding.
+- **Absence of Concerning Elements:** Importantly, no Red Blood Cells (RBC), Casts, or Crystals were detected.
+- **No Microbial Growth:** There was a complete absence of both bacteria and yeast, indicating a healthy urinary environment.
+
+Section: Professional Review
+- **Expert Endorsement:** The report was prepared and endorsed by a team of highly qualified medical professionals, including Dr. Sawan Kumar, Consultant Pathologist, and Dr. Praveen Kumar Gupta, Lab Director & HOD, both holding advanced degrees from AIIMS.
+---

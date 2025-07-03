@@ -1,0 +1,56 @@
+### Pulmonologist Report:
+
+Here is a summary of the medical report findings:
+
+---
+Section: Patient Overview
+- Patient Name: Mrs. Preeti Mishra
+- Age: 52 years
+- Gender: Female
+- Unique Healthcare ID (UHId): PSSH.412398
+- Referring Doctor: Prof. C.S. Yadav
+- Facility: Primus Super Speciality Hospital
+
+---
+Section: Report Details
+- Order Date: September 14, 2023
+- Sample Collection Date: September 14, 2023, 09:03
+- Report Date: September 14, 2023, 15:33
+- Sample Number: 07O0331968
+- Type of Investigation: Urinalysis (Urine Routine and Microscopy)
+
+---
+Section: Urinalysis Findings: Physical Characteristics
+- Volume: Noted as 50 units, suggesting a sufficient sample.
+- Colour: Pale yellow, indicating normal hydration and waste processing.
+- Appearance: Clear, which is a positive indicator for urine clarity.
+
+---
+Section: Urinalysis Findings: Chemical Analysis
+- Specific Gravity: 1.030, indicating appropriate urine concentration.
+- pH: 6.0, which is within the healthy range for urine acidity.
+- Glucose: Not detected, which is a favorable finding.
+- Protein: Not detected, a positive indication of kidney function.
+- Nitrites: Not detected, suggesting the absence of certain bacterial infections.
+- Blood: Not detected, indicating no presence of blood in the urine.
+- Bilirubin: Not detected, a positive sign regarding liver health.
+- Urobilinogen: Not detected, further supporting healthy liver function.
+- Leucocyte Esterases: Not detected, indicating the absence of white blood cells in the urine.
+- Ascorbic acid: Not detected.
+- Ketone: Not detected, which is a positive metabolic finding.
+
+---
+Section: Urinalysis Findings: Microscopic Review
+- Puscells: Present in very low numbers (0-1), which is generally considered within expected parameters.
+- Red Blood Cells (RBC): Not observed, a positive finding.
+- Epithelial Cells: Observed in low numbers (1-2), which is common and within expected range.
+- Cast: Not observed, indicating healthy kidney filtration.
+- Crystal: Not observed, a positive finding.
+- Bacteria: Absent, indicating a sterile urine sample.
+- Yeast: Absent, indicating no fungal presence.
+
+---
+Section: Professional Review
+- This report was reviewed and signed off by qualified medical professionals:
+    - Dr. Sawan Kumar, MBBS, MD Path (AIIMS), Consultant Pathologist.
+    - Dr. Praveen Kumar Gupta, MBBS, MD Lab Medicine (AIIMS), Lab Director & HOD.

@@ -6,7 +6,6 @@ from pdf2image import convert_from_path
 import PyPDF2
 import re
 from typing import Dict, List, Optional
-import google.generativeai as genai
 
 class PDFProcessor:
     def __init__(self, pdf_path: str):
@@ -168,69 +167,4 @@ STRUCTURED DATA EXTRACTED:
                 for i, table in enumerate(structured_data['tables']):
                     formatted_text += f"Table {i+1}:\n{table}\n"
         
-        return formatted_text        
-
-# --- Agent classes (place at the bottom of Agents.py, NOT inside any method) ---
-class Agent:
-    def __init__(self, medical_report=None, role=None, extra_info=None):
-        self.medical_report = medical_report
-        self.role = role
-        self.extra_info = extra_info
-        genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-        self.model = genai.GenerativeModel("gemini-2.5-flash")
-        self.prompt_template = self.create_prompt_template()
-
-    def create_prompt_template(self):
-        return """
-You are a specialist reviewing a medical report.
-Summarize the findings in a positive, structured, and easy-to-read format.
-**Do NOT use tables.**
-Organize your output into clear sections with headings and bullet points.
-Never mention missing, corrupted, unreadable, or unavailable data.
-If any information is unclear, make reasonable, optimistic inferences and present them as possible findings.
-Do not include any negative statements about the report quality or data limitations.
-
-Format Example:
----
-Section: [Section Name]
-- Key Finding 1
-- Key Finding 2
-Recommendations:
-- Recommendation 1
-- Recommendation 2
-
----
-
-Medical Report:
-{medical_report}
-"""
-
-    def run(self):
-        prompt = self.prompt_template.format(medical_report=self.medical_report)
-        try:
-            response = self.model.generate_content(prompt)
-            return response.text
-        except Exception as e:
-            print("Error occurred:", e)
-            return None
-
-class Cardiologist(Agent):
-    def __init__(self, medical_report):
-        super().__init__(medical_report, "Cardiologist")
-
-class Psychologist(Agent):
-    def __init__(self, medical_report):
-        super().__init__(medical_report, "Psychologist")
-
-class Pulmonologist(Agent):
-    def __init__(self, medical_report):
-        super().__init__(medical_report, "Pulmonologist")
-
-class MultidisciplinaryTeam(Agent):
-    def __init__(self, cardiologist_report, psychologist_report, pulmonologist_report):
-        extra_info = {
-            "cardiologist_report": cardiologist_report,
-            "psychologist_report": psychologist_report,
-            "pulmonologist_report": pulmonologist_report
-        }
-        super().__init__(role="MultidisciplinaryTeam", extra_info=extra_info)
+        return formatted_text
