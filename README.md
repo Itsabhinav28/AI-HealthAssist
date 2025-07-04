@@ -33,45 +33,46 @@
 
 ---
 
-## 📁 File & Directory Structure
+## 📁 Project Structure
 
+```
 AI-Health-Assist/
-├── app.py                              # Flask web server
-├── main.py                             # CLI interface
-├── apikey.env                          # API configuration
-├── requirements.txt                    # Python dependencies
-├── quick_test.py                       # System diagnostics
-├── setup.py                            # Installation script
-├── prettify_reports.py                 # Report formatting utility
-├── uploads/                            # File upload storage
-├── results/                            # Analysis results
-├── Medical Reports/                    # Sample medical files
+├── app.py
+├── main.py
+├── apikey.env
+├── requirements.txt
+├── quick_test.py
+├── setup.py
+├── prettify_reports.py
+├── uploads/
+├── results/
+├── Medical Reports/
 ├── Utils/
-│   ├── Agents.py                       # AI specialist agents
-│   └── PDFProcessor.py                 # PDF text extraction
+│   ├── Agents.py
+│   └── PDFProcessor.py
 ├── templates/
-│   ├── base.html                       # Base template layout
-│   ├── dashboard.html                  # Main dashboard page
+│   ├── base.html
+│   ├── dashboard.html
 │   ├── components/
-│   │   ├── upload_section.html         # File upload component
-│   │   ├── analysis_grid.html          # Agent display cards
-│   │   ├── history_section.html        # Analysis history
-│   │   └── report_modal.html           # Report viewer modal
+│   │   ├── upload_section.html
+│   │   ├── analysis_grid.html
+│   │   ├── history_section.html
+│   │   └── report_modal.html
 │   └── includes/
-│       ├── head.html                   # HTML head section
-│       ├── header.html                 # Page header
-│       └── floating_stats.html         # Statistics panel
+│       ├── head.html
+│       ├── header.html
+│       └── floating_stats.html
 └── static/
     ├── css/
-    │   ├── main.css                    # Core styles
-    │   ├── components.css              # Component styling
-    │   └── modal.css                   # Modal styles
+    │   ├── main.css
+    │   ├── components.css
+    │   └── modal.css
     └── js/
-        ├── dashboard.js                # Main functionality
-        ├── analysis.js                 # Analysis management
-        ├── history.js                  # History handling
-        └── modal.js                    # Modal interactions
----
+        ├── dashboard.js
+        ├── analysis.js
+        ├── history.js
+        └── modal.js
+```
 
 ## ⚡ How to Run the Project
 
