@@ -1,0 +1,36 @@
+### Cardiologist Report:
+
+Here is a summary of the medical report findings:
+
+---
+Section: Patient Demographics
+- Patient Name: Mrs. Preeti Mishra
+- Age: 52 Years
+- Gender: Female
+- Unique Health Identifier (UHId): PSSH.412398
+
+---
+Section: Clinical Context
+- Referring Physician: Prof. C.S. Yadav
+- Facility: Primus Super Speciality Hospital
+- Order Date for Investigation: September 14, 2023
+
+---
+Section: Laboratory Details
+- Sample Identification Number: 07O0331968
+- Sample Collection Time: September 14, 2023, 09:03 AM
+- Report Completion Time: September 14, 2023, 03:32 PM
+
+---
+Section: Key Biochemical Findings
+- A biochemistry analysis was successfully performed.
+- The Sodium level was measured at 142.0. This finding is well within the healthy reference range.
+- The measurement was precisely conducted using the direct ion selective electrode method.
+
+---
+Section: Professional Oversight
+- The report was prepared under the expert supervision of:
+    - Dr. Sawan Kumar, Consultant Pathologist (MBBS, MD Path(AIIMS))
+    - Dr. Praveen Kumar Gupta, Lab Director & HOD (MBBS, MD Lab Medicine(AIIMS))
+
+---

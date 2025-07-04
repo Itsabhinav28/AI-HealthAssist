@@ -1,0 +1,27 @@
+
+Medical Report Analysis
+=======================
+Extraction Method: pdfplumber
+
+RAW TEXT CONTENT:
+LABORATORY INVESTIGATION REPORT
+Patient Name : Mrs. PREETI MISHRA Age/Sex : 52 Year(s) / Female
+UHId : PSSH.412398 Order Date : 14/09/2023
+Ref. Doctor : Prof.C.S.Yadav Facility : Primus Super Speciality Hospital
+Biochemistry
+Test Result
+Sample No : 07O0331968 Collection Date : 14/09/23 09:03 Report Date : 14/09/23 15:32
+Sodium 142.0
+Direct ion selective electrode
+End of Report
+Dr.Sawan Kumar , MBBS, MD Dr.Praveen Kumar Gupta ,
+Path(AIIMS) MBBS, MD Lab
+Medicine(AIIMS)
+Consultant Pathologist Lab Director & HOD
+Page 1 of 1
+
+
+STRUCTURED DATA EXTRACTED:
+Patient Name: Mrs
+Incident Date: 14/09/2023
+Age: 1

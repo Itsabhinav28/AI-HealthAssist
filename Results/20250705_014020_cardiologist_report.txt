@@ -1,0 +1,37 @@
+### Cardiologist Report:
+
+**Patient Overview**
+- Patient Name: Mrs. Preeti Mishra
+- Age and Sex: 52 years, Female
+- Patient ID: PSSH.412398
+- Referring Doctor: Prof. C.S. Yadav
+- Healthcare Facility: Primus Super Speciality Hospital
+
+**Report Details**
+- Investigation Type: Comprehensive Urinalysis, including Routine and Microscopy methods.
+- Order Date: September 14, 2023
+- Sample Collection Date: September 14, 2023 at 09:03
+- Report Release Date: September 14, 2023 at 15:33
+- Sample Number: 07O0331968
+
+**Urinalysis Findings: Physical Assessment**
+- The urine sample presented a healthy pale yellow color.
+- Its appearance was clear, indicating excellent clarity.
+- A volume of 50 was successfully recorded.
+
+**Urinalysis Findings: Chemical Analysis**
+- The Specific Gravity was measured at 1.030, indicating well-concentrated urine.
+- The pH level was a balanced 6.0.
+- All tested chemical parameters showed favorable results, being either 'Nil' or 'Negative':
+    - Glucose, Protein, Nitrites, Blood, Bilirubin, Urobilinogen, Leucocytes, Ascorbic acid, and Ketones were all found to be at healthy levels, indicating no concerns.
+
+**Urinalysis Findings: Microscopic Examination**
+- Microscopic analysis further confirmed positive findings:
+    - Red Blood Cells (RBCs), Casts, and Crystals were not observed.
+    - Bacteria and Yeast were notably absent.
+    - A minimal presence of Puscells (0-1 per field) was noted, well within a healthy range.
+    - Very few Epithelial Cells (1-2 per field) were observed, which is a normal finding.
+
+**Professional Review**
+- The report was diligently prepared and reviewed by qualified specialists, ensuring the highest standards of accuracy and professional insight.
+- Key contributors include Dr. Sawan Kumar, Consultant Pathologist, and Dr. Praveen Kumar Gupta, who serves as Lab Director & HOD.

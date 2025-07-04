@@ -1,0 +1,31 @@
+### Cardiologist Report:
+
+---
+### Patient Overview
+
+*   **Patient Name:** Mrs. Preeti Mishra
+*   **Age:** 52 years
+*   **Gender:** Female
+*   **Unique Healthcare Identifier (UHId):** PSSH.412398
+
+### Report Specifics
+
+*   **Healthcare Facility:** Primus Super Speciality Hospital
+*   **Referring Physician:** Prof. C. S. Yadav
+*   **Order Date:** September 14, 2023
+*   **Sample Collection Date & Time:** September 14, 2023, at 09:03
+*   **Report Completion Date & Time:** September 14, 2023, at 15:32
+
+### Key Laboratory Findings
+
+*   **Department:** Biochemistry
+*   **Sample ID:** 07O0331968
+*   **Test Conducted:** Sodium
+*   **Result:** The Sodium level was precisely determined at 142.0. This value typically indicates a healthy and well-regulated electrolyte balance.
+*   **Measurement Method:** Direct Ion Selective Electrode, ensuring accurate and reliable results.
+
+### Reporting Professionals
+
+*   **Consultant Pathologist:** Dr. Sawan Kumar (MBBS, MD Path(AIIMS))
+*   **Lab Director & Head of Department, Lab Medicine:** Dr. Praveen Kumar Gupta (MBBS, MD Lab Medicine(AIIMS))
+---

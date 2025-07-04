@@ -1,0 +1,180 @@
+/* Modal Styles - Report Viewer with Enhanced Text Formatting */
+
+.report-viewer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 2000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(5px);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+}
+
+.report-viewer.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.report-content {
+    background: white;
+    border-radius: 20px;
+    width: 90%;
+    max-width: 1200px;
+    max-height: 85vh;
+    overflow-y: auto;
+    transform: scale(0.8);
+    transition: all 0.3s ease;
+}
+
+.report-viewer.active .report-content {
+    transform: scale(1);
+}
+
+.report-header {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+    padding: 20px 30px;
+    border-radius: 20px 20px 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.close-btn {
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    color: white;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.2em;
+    transition: all 0.3s ease;
+}
+
+.close-btn:hover {
+    background: rgba(255, 255, 255, 0.3);
+    transform: rotate(90deg);
+}
+
+.report-body {
+    padding: 30px;
+}
+
+.report-section {
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 12px;
+    border-left: 4px solid;
+}
+
+.cardiologist-section {
+    background: rgba(255, 107, 107, 0.1);
+    border-left-color: #ff6b6b;
+}
+
+.psychologist-section {
+    background: rgba(78, 205, 196, 0.1);
+    border-left-color: #4ecdc4;
+}
+
+.pulmonologist-section {
+    background: rgba(69, 183, 209, 0.1);
+    border-left-color: #45b7d1;
+}
+
+.final-section {
+    background: rgba(240, 147, 251, 0.1);
+    border-left-color: #f093fb;
+}
+
+.section-title {
+    font-size: 1.4em;
+    font-weight: 600;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.section-icon {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+    color: white;
+    font-size: 1.2em;
+}
+
+/* Enhanced Modal Content Formatting - Consistent with Dashboard */
+.modal-content-wrapper {
+    line-height: 1.6;
+    font-size: 0.95em;
+}
+
+.modal-content-wrapper h3 {
+    color: #667eea !important;
+    font-size: 1.1em !important;
+    font-weight: 600 !important;
+    margin: 15px 0 10px 0 !important;
+    padding-bottom: 5px !important;
+    border-bottom: 2px solid #667eea !important;
+    display: block !important;
+}
+
+.modal-content-wrapper h4 {
+    color: #333 !important;
+    font-size: 1.0em !important;
+    font-weight: 600 !important;
+    margin: 12px 0 8px 0 !important;
+    padding-bottom: 3px !important;
+    border-bottom: 1px solid #dee2e6 !important;
+}
+
+.modal-content-wrapper strong {
+    color: #333 !important;
+    font-weight: 600 !important;
+}
+
+.modal-content-wrapper ul {
+    margin: 10px 0 !important;
+    padding-left: 20px !important;
+}
+
+.modal-content-wrapper li {
+    margin: 5px 0 !important;
+    line-height: 1.5 !important;
+    color: #333;
+}
+
+.modal-content-wrapper p {
+    margin: 8px 0 !important;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Ensure consistent spacing in modal */
+.modal-content-wrapper br + h3,
+.modal-content-wrapper br + h4 {
+    margin-top: 20px !important;
+}
+
+/* Special styling for final diagnosis section in modal */
+.final-section .modal-content-wrapper h3 {
+    color: #f093fb !important;
+    border-bottom-color: #f093fb !important;
+}
+
+.final-section .modal-content-wrapper h4 {
+    color: #333 !important;
+    border-bottom-color: rgba(240, 147, 251, 0.3) !important;
+}

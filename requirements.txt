@@ -1,3 +1,10 @@
+# Flask Web Interface Requirements
+# Add these to your existing requirements.txt or install separately
+
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# Your existing requirements (keep these)
 langchain
 langchain-community 
 langchain-openai

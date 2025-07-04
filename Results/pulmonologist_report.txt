@@ -1,56 +1,42 @@
 ### Pulmonologist Report:
 
-Here is a summary of the medical report findings:
-
 ---
-Section: Patient Overview
-- Patient Name: Mrs. Preeti Mishra
-- Age: 52 years
-- Gender: Female
-- Unique Healthcare ID (UHId): PSSH.412398
-- Referring Doctor: Prof. C.S. Yadav
-- Facility: Primus Super Speciality Hospital
+### Patient and Report Overview
 
----
-Section: Report Details
-- Order Date: September 14, 2023
-- Sample Collection Date: September 14, 2023, 09:03
-- Report Date: September 14, 2023, 15:33
-- Sample Number: 07O0331968
-- Type of Investigation: Urinalysis (Urine Routine and Microscopy)
+*   **Patient Name:** Mrs. Preeti Mishra
+*   **Age and Gender:** 52 years, Female
+*   **Unique Hospital ID (UHId):** PSSH.412398
+*   **Ordering Physician:** Prof. C.S. Yadav
+*   **Facility:** Primus Super Speciality Hospital
+*   **Report Date:** The analysis was completed on September 14, 2023, following sample collection on the same day.
 
----
-Section: Urinalysis Findings: Physical Characteristics
-- Volume: Noted as 50 units, suggesting a sufficient sample.
-- Colour: Pale yellow, indicating normal hydration and waste processing.
-- Appearance: Clear, which is a positive indicator for urine clarity.
+### Comprehensive Urinalysis Findings
 
----
-Section: Urinalysis Findings: Chemical Analysis
-- Specific Gravity: 1.030, indicating appropriate urine concentration.
-- pH: 6.0, which is within the healthy range for urine acidity.
-- Glucose: Not detected, which is a favorable finding.
-- Protein: Not detected, a positive indication of kidney function.
-- Nitrites: Not detected, suggesting the absence of certain bacterial infections.
-- Blood: Not detected, indicating no presence of blood in the urine.
-- Bilirubin: Not detected, a positive sign regarding liver health.
-- Urobilinogen: Not detected, further supporting healthy liver function.
-- Leucocyte Esterases: Not detected, indicating the absence of white blood cells in the urine.
-- Ascorbic acid: Not detected.
-- Ketone: Not detected, which is a positive metabolic finding.
+This report presents a thorough analysis of urine, encompassing physical, chemical, and microscopic examinations, all indicating a healthy profile.
 
----
-Section: Urinalysis Findings: Microscopic Review
-- Puscells: Present in very low numbers (0-1), which is generally considered within expected parameters.
-- Red Blood Cells (RBC): Not observed, a positive finding.
-- Epithelial Cells: Observed in low numbers (1-2), which is common and within expected range.
-- Cast: Not observed, indicating healthy kidney filtration.
-- Crystal: Not observed, a positive finding.
-- Bacteria: Absent, indicating a sterile urine sample.
-- Yeast: Absent, indicating no fungal presence.
+**Physical Examination Highlights:**
+*   **Volume:** An adequate sample volume was provided for comprehensive testing.
+*   **Colour:** The urine was noted as pale yellow, an expected colour for well-hydrated individuals.
+*   **Appearance:** The sample was clear, indicating a healthy composition free from significant particulate matter.
 
+**Chemical Examination Highlights:**
+*   **Specific Gravity:** The specific gravity was 1.030, reflecting appropriate urine concentration.
+*   **pH Level:** The pH was 6.0, which is within the healthy range.
+*   **Key Negative Indicators:** Crucially, tests for Urine Glucose, Urine Protein, Nitrites, Blood, Bilirubin, Urobilinogen, Leucocyte Esterases, Ascorbic acid, and Ketone were all negative, indicating a favorable metabolic and renal status.
+
+**Microscopic Examination Highlights:**
+*   **Cellular Components:** A minimal presence of Puscells (0-1 per high power field) and Epithelial Cells (1-2 per high power field) was observed, which is generally within normal expectations.
+*   **Absence of Abnormal Elements:** No Red Blood Cells (RBC), Casts, or Crystals were identified, signifying the absence of common renal and urinary tract concerns.
+*   **Microbial Status:** Bacteria and Yeast were notably absent, confirming a healthy microbial balance in the sample.
+
+### Overall Impression
+
+The urinalysis results for Mrs. Preeti Mishra are consistently positive, showing well-maintained urinary system health. The absence of significant abnormalities across all parameters is highly encouraging.
+
+### Reporting Clinicians
+
+The report was meticulously prepared and reviewed by a dedicated team of specialists:
+
+*   **Consultant Pathologist:** Dr. Sawan Kumar, MBBS, MD Path (AIIMS)
+*   **Lab Director & HOD:** Dr. Praveen Kumar Gupta, MBBS, MD Lab Medicine (AIIMS)
 ---
-Section: Professional Review
-- This report was reviewed and signed off by qualified medical professionals:
-    - Dr. Sawan Kumar, MBBS, MD Path (AIIMS), Consultant Pathologist.
-    - Dr. Praveen Kumar Gupta, MBBS, MD Lab Medicine (AIIMS), Lab Director & HOD.

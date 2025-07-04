@@ -1,0 +1,25 @@
+### Psychologist Report:
+
+---
+Section: Patient Overview
+- The report details findings for Mrs. Preeti Mishra, a 52-year-old female.
+- Her unique healthcare identifier is PSSH.412398.
+
+---
+Section: Report and Sample Details
+- The medical investigation was ordered on September 14, 2023.
+- The sample was collected promptly on September 14, 2023, at 09:03.
+- The final report was efficiently generated on September 14, 2023, at 15:32.
+- The specific sample associated with these findings is identified by number 07O0331968.
+
+---
+Section: Key Laboratory Findings
+- A biochemistry test was successfully conducted to assess Sodium levels.
+- The Sodium level was found to be 142.0, a finding that typically indicates a well-maintained balance within a healthy physiological range.
+- The Sodium measurement was precisely performed using the direct ion selective electrode method, ensuring accurate results.
+
+---
+Section: Medical Team and Facility
+- The investigations were carried out at the Primus Super Speciality Hospital.
+- Prof. C.S. Yadav is noted as the referring doctor for this medical report.
+- The report was professionally reviewed and authorized by Dr. Sawan Kumar, Consultant Pathologist, and Dr. Praveen Kumar Gupta, Lab Director & HOD.

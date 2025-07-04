@@ -1,0 +1,49 @@
+### Pulmonologist Report:
+
+Here is a summary of the medical report findings, presented in a positive, structured, and easy-to-read format.
+
+---
+### Patient Overview
+-   **Patient Name:** Mrs. Preeti Mishra
+-   **Age and Gender:** 52 years old, Female
+-   **Unique Health Identifier (UHId):** PSSH.412398
+-   **Referring Physician:** Prof. C.S. Yadav
+-   **Healthcare Facility:** Primus Super Speciality Hospital
+
+### Investigation Details
+-   **Investigation Type:** Comprehensive Urinalysis, including Routine and Microscopy analysis.
+-   **Order Date:** September 14, 2023
+-   **Sample Collection:** Conducted promptly on September 14, 2023, at 09:03.
+-   **Report Generation:** The report was efficiently completed and made available on September 14, 2023, at 15:33.
+
+### Urinalysis Results
+
+#### Physical Characteristics
+-   **Volume:** Observed at 50 units, indicating a collected sample for analysis.
+-   **Colour:** Displayed a healthy pale yellow hue.
+-   **Appearance:** Optimal clarity was noted, contributing to a favorable visual assessment.
+
+#### Chemical Composition
+-   **Specific Gravity:** A value of 1.030 was recorded, suggesting effective kidney function in concentrating urine.
+-   **pH Level:** Maintained a balanced pH of 6.0, which is within a healthy range.
+-   **Glucose:** No glucose was detected, indicating excellent metabolic control.
+-   **Protein:** No protein was detected, which is an excellent indicator of kidney health.
+-   **Nitrites:** Found to be negative, suggesting the absence of certain bacterial infections.
+-   **Blood:** No blood was detected, confirming a healthy state.
+-   **Bilirubin:** No bilirubin was detected, which is a positive finding.
+-   **Urobilinogen:** No urobilinogen was detected, further supporting healthy liver function.
+-   **Leucocyte Esterase:** Negative results were obtained, suggesting no significant inflammatory activity.
+-   **Ascorbic Acid:** Not detected, which is a desirable finding.
+-   **Ketones:** No ketones were detected, reflecting stable metabolic processes.
+
+#### Microscopic Insights
+-   **Pus Cells:** A minimal count of 0-1 was observed, indicating excellent general health.
+-   **Red Blood Cells (RBCs):** No RBCs were detected, which is an excellent and positive finding.
+-   **Epithelial Cells:** A very low count of 1-2 was observed, consistent with normal cellular turnover.
+-   **Casts:** No casts were detected, an excellent indicator of kidney health.
+-   **Crystals:** No crystals were detected, suggesting optimal urine composition.
+-   **Bacteria:** Found to be absent, which is a highly positive finding, indicating no bacterial presence.
+-   **Yeast:** Absent, further confirming a healthy microscopic profile.
+
+### Expert Endorsement
+-   The report was thoroughly reviewed and authorized by Dr. Sawan Kumar, a Consultant Pathologist (MBBS, MD Path(AIIMS)), and Dr. Praveen Kumar Gupta, Lab Director & HOD (MBBS, MD Lab Medicine(AIIMS)), ensuring comprehensive and professional validation of the findings.

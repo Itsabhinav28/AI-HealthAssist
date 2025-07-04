@@ -1,0 +1,23 @@
+### Pulmonologist Report:
+
+---
+Section: Patient Overview
+- Mrs. Preeti Mishra, a 52-year-old female, is the subject of this report.
+- Her Unique Hospital Identification (UHId) is PSSH.412398.
+- Care is being provided at Primus Super Speciality Hospital, under the professional referral of Prof. C.S. Yadav.
+
+Section: Laboratory Findings
+- A key biochemistry investigation for Sodium was successfully performed.
+- The Sodium level was accurately recorded at 142.0.
+- The measurement was meticulously carried out using the direct ion selective electrode method, ensuring precision.
+- The sample was collected promptly on 14/09/2023 at 09:03, and the report was efficiently finalized on the same day by 15:32.
+
+Section: Professional Oversight
+- The report received expert review and authorization from Dr. Sawan Kumar, an MBBS, MD Path (AIIMS), serving as the dedicated Consultant Pathologist.
+- Comprehensive oversight was provided by Dr. Praveen Kumar Gupta, MBBS, MD Lab Medicine (AIIMS), who holds the esteemed positions of Lab Director & HOD.
+
+Recommendations:
+- Continue diligent monitoring of patient parameters to ensure ongoing well-being.
+- Utilize these valuable findings to support a proactive and comprehensive care strategy.
+
+---

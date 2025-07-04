@@ -1,0 +1,49 @@
+### Psychologist Report:
+
+Here is a summary of the medical report findings:
+
+---
+Section: Patient and Report Details
+- Patient Name: Mrs. Preeti Mishra, a 52-year-old female.
+- Unique Hospital Identifier (UHId): PSSH.412398.
+- Ordering Physician: Prof. C.S. Yadav.
+- Healthcare Facility: Primus Super Speciality Hospital.
+- Investigation ordered and sample collected on September 14, 2023.
+- The comprehensive report was finalized and released on September 14, 2023, ensuring timely results.
+
+---
+Section: Urinalysis - Physical Characteristics
+- An adequate sample volume was collected for comprehensive analysis.
+- The urine sample presented with a healthy pale yellow color.
+- Clarity of the sample was observed as clear, indicating a well-prepared sample for analysis.
+
+---
+Section: Urinalysis - Chemical Profile
+- Specific gravity was noted at 1.030, indicating a well-concentrated sample, providing robust analytical results.
+- The pH level was optimally balanced at 6.0.
+- Glucose was not detected in the urine, indicating healthy metabolic regulation.
+- Protein was absent, which is an excellent indicator of kidney health.
+- Nitrites were not detected, suggesting a healthy urinary tract.
+- Blood was not detected, confirming a healthy urinary system.
+- Bilirubin was absent, an excellent finding for liver and bile duct health.
+- Urobilinogen was not significantly detected, contributing to a positive overall profile.
+- Leucocyte esterase was negative, further confirming the absence of inflammation.
+- Ascorbic acid was not detected, ensuring the accuracy of other chemical tests.
+- Ketones were absent, indicating healthy metabolic function.
+
+---
+Section: Urinalysis - Microscopic Insights
+- A minimal presence of pus cells (0-1 per high power field) was observed, well within expected normal limits.
+- Red blood cells (RBCs) were not detected, indicating no sign of bleeding.
+- A very low number of epithelial cells (1-2 per high power field) were noted, which is a normal finding in urine.
+- No casts were detected, indicating healthy kidney tubular function.
+- No crystals were detected, suggesting a well-balanced urinary environment.
+- Bacteria were completely absent, confirming a healthy and clear urinary tract.
+- Yeast was also completely absent, indicating no fungal presence.
+
+---
+Section: Professional Oversight
+- The report was expertly reviewed and authenticated by Dr. Sawan Kumar, a Consultant Pathologist (MBBS, MD Path, AIIMS).
+- Further oversight and validation were provided by Dr. Praveen Kumar Gupta, the Lab Director & HOD (MBBS, MD Lab Medicine, AIIMS), ensuring the highest standards of accuracy and quality.
+
+---

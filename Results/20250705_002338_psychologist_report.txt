@@ -1,0 +1,49 @@
+### Psychologist Report:
+
+---
+Section: Patient Overview
+- **Patient Name:** Mrs. PREETI MISHRA
+- **Age and Gender:** 52 Years, Female
+- **Unique Hospital ID (UHId):** PSSH.412398
+- **Referring Doctor:** Prof. C.S. Yadav
+- **Facility:** Primus Super Speciality Hospital
+
+Section: Report Details
+- **Order Date:** 14/09/2023
+- **Sample Collection Date:** 14/09/2023 at 09:03
+- **Report Date:** 14/09/2023 at 15:33
+- **Sample Number:** 07O0331968
+- **Investigation Type:** Urinalysis (Urine Routine and Microscopy) performed using Dipstick Method and Microscopy.
+
+Section: Urinalysis - Physical Examination Findings
+- **Volume:** The sample volume was measured at 50 units.
+- **Colour:** The urine exhibited an appropriate pale yellow color.
+- **Appearance:** The sample demonstrated excellent clarity.
+
+Section: Urinalysis - Chemical Examination Findings
+- **Specific Gravity:** The specific gravity was noted at 1.030.
+- **pH:** The pH level was 6.0.
+- **Urine Glucose:** Glucose was not detected, which is an expected healthy finding.
+- **Urine Protein:** Protein was not detected, indicating a healthy urinary status.
+- **Nitrites:** Nitrites were not detected, a positive indicator.
+- **Blood:** Blood was not detected in the sample.
+- **Bilirubin:** Bilirubin was not detected.
+- **Urobilinogen:** Urobilinogen was not detected.
+- **Leucocyte Esterase:** Leucocyte esterase was not detected.
+- **Ascorbic Acid:** Ascorbic acid was not detected.
+- **Ketones:** Ketones were not detected.
+
+Section: Urinalysis - Microscopic Examination Findings
+- **Pus Cells:** A very minimal count of 0-1 pus cells was observed, indicating excellent health.
+- **Red Blood Cells (RBC):** Red blood cells were not observed.
+- **Epithelial Cells:** A minimal presence of 1-2 epithelial cells was noted, which is a common and generally benign finding.
+- **Casts:** Casts were not observed.
+- **Crystals:** Crystals were not observed.
+- **Bacteria:** Bacteria were confirmed absent.
+- **Yeast:** Yeast was confirmed absent.
+
+Section: Concluding Remarks
+- The comprehensive urinalysis report presents a highly favorable profile.
+- All key indicators from the physical, chemical, and microscopic examinations are within healthy ranges or show positive, minimal findings.
+- The report was prepared by a qualified team, including Dr. Sawan Kumar (Consultant Pathologist) and Dr. Praveen Kumar Gupta (Lab Director & HOD).
+---

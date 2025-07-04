@@ -1,0 +1,17 @@
+<div class="upload-section">
+    <h3>📋 Upload Medical Report</h3>
+    <div class="upload-area" id="uploadArea">
+        <div>
+            <p>📄 Drag & Drop your medical report here</p>
+            <p>or</p>
+            <button class="btn" onclick="document.getElementById('fileInput').click()">
+                Choose File
+            </button>
+            <input type="file" id="fileInput" accept=".pdf,.txt" style="display: none;">
+        </div>
+    </div>
+    <div id="fileInfo" class="hidden"></div>
+    <button class="btn" id="analyzeBtn" disabled>
+        🔍 Start Analysis
+    </button>
+</div>

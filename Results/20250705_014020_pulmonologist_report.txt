@@ -1,0 +1,50 @@
+### Pulmonologist Report:
+
+Here is a summary of the medical report findings, presented in a clear and positive format:
+
+---
+Section: Patient Overview
+- Patient Name: Mrs. Preeti Mishra
+- Age: 52 years
+- Gender: Female
+- Unique Healthcare ID (UHId): PSSH.412398
+
+Section: Report Details
+- Order Date: September 14, 2023
+- Sample Collection Date: September 14, 2023, at 09:03
+- Report Date: September 14, 2023, at 15:33
+- Referring Doctor: Prof. C.S. Yadav
+- Facility: Primus Super Speciality Hospital
+
+Section: Urinalysis Findings - Physical Examination
+- Urine Volume: Measured at 50, indicating a suitable sample was obtained for comprehensive analysis.
+- Colour: Pale yellow, consistent with normal hydration.
+- Appearance: Clear, suggesting no significant particulate matter.
+
+Section: Urinalysis Findings - Chemical Examination
+- Specific Gravity: 1.030, indicating well-concentrated urine, which can be a healthy finding.
+- pH: 6.0, which is within the normal and healthy range.
+- Glucose: Not detected, a positive indicator for metabolic health.
+- Protein: Not detected, suggesting healthy kidney function.
+- Nitrites: Negative, indicating the absence of certain bacterial infections.
+- Blood: Not detected, a favorable finding.
+- Bilirubin: Not detected, indicating healthy liver function.
+- Urobilinogen: Not detected, another positive indicator for liver health.
+- Leucocyte Esterase: Negative, suggesting the absence of white blood cells which could indicate infection.
+- Ascorbic Acid: Not detected.
+- Ketone: Not detected, a healthy metabolic indicator.
+
+Section: Urinalysis Findings - Microscopic Examination
+- Puscells: Present in very minimal amounts (0-1), which is a common and benign finding.
+- Red Blood Cells (RBC): Not detected.
+- Epithelial Cells: Present in very minimal amounts (1-2), a normal finding for a urine sample.
+- Casts: Not detected, indicating healthy kidney filtration.
+- Crystals: Not detected.
+- Bacteria: Absent, indicating a healthy and sterile urinary tract.
+- Yeast: Absent, further confirming a healthy microbial balance.
+
+Section: Professional Review
+- This comprehensive report was expertly reviewed and signed by Dr. Sawan Kumar, MBBS, MD Path (AIIMS), Consultant Pathologist, and Dr. Praveen Kumar Gupta, MBBS, MD Lab Medicine (AIIMS), Lab Director & HOD.
+
+Overall Summary:
+The urinalysis report for Mrs. Preeti Mishra shows a predominantly positive and healthy profile across all examined parameters. The findings from the physical, chemical, and microscopic examinations are largely within normal and expected ranges, indicating good general health and robust physiological function.

@@ -1,0 +1,101 @@
+
+Medical Report Analysis
+=======================
+Extraction Method: pdfplumber
+
+RAW TEXT CONTENT:
+(cid:13)(cid:14)(cid:15)(cid:9) (cid:130)(cid:12)(cid:3)(cid:27)(cid:10)(cid:24)(cid:12)(cid:19)(cid:13)(cid:13)(cid:1)(cid:4)(cid:26)(cid:12)(cid:3)(cid:26)$(cid:0)(cid:16)(cid:1) (cid:29)(cid:14)(cid:11)(cid:21)(cid:9)(cid:20)(cid:11)(cid:12)(cid:19)(cid:26)"(cid:24) (cid:130)(cid:12)ˇr—h—f(cid:209)
+&ExF*x(cid:135)Gx(cid:140) (cid:142)/]H/(cid:210)(cid:140)(cid:134)Fvx(cid:138)z{x a(cid:139)(cid:134)(cid:139)y/.wD (cid:142)/HT^THCJHtCTHHHHT
+Kxmx(cid:140)(cid:140)xG/M{(cid:139)x(cid:135)y (cid:142)/M’.PK&+/L-&*.)NP-MN Mw{{x(cid:136)yxG/w(cid:135) (cid:142)/CTI(cid:211)(cid:144)(cid:135)ICHCJ/BH(cid:142)HH&(
+Kxmx(cid:140)(cid:140)xG/,(cid:143) (cid:142)/.& Kx(cid:136)x(cid:139)|xG/w(cid:135) (cid:142)/CTI(cid:211)(cid:144)(cid:135)ICHCJ/BC(cid:142)Ct_(
+Lw(cid:136)yw(cid:140)/.z(cid:138)x (cid:142) Kxpw(cid:140)yxG/w(cid:135) (cid:142)/CTI(cid:211)(cid:144)(cid:135)ICHCJ/HJ(cid:142)JB_(
+Nz(cid:138)p{x/P(cid:143)px (cid:142)/Nx(cid:140)(cid:144)(cid:138)/I/B^Tt(cid:127)JJC(cid:145)q(cid:137)w{x/,{wwG/’LP&/I/B^Tt(cid:127)JJ]
+(cid:0)(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:5)(cid:7)(cid:8)
+(cid:4)(cid:9)(cid:10)(cid:11)(cid:12)(cid:13)(cid:14)(cid:15)(cid:9) (cid:16)(cid:9)(cid:10)(cid:17)(cid:18)(cid:11)(cid:10) (cid:19)(cid:20)(cid:21)(cid:11) (cid:22)(cid:21)(cid:23)(cid:24)(cid:12)(cid:16)(cid:9)(cid:25)(cid:24)(cid:12)(cid:26)(cid:20)(cid:11)(cid:9)(cid:27)(cid:28)(cid:14)(cid:18)
+(cid:0)(cid:1)(cid:2)(cid:3)(cid:5)(cid:7)(cid:6)(cid:5)(cid:22)(cid:26)(cid:13)(cid:12)(cid:0)(cid:29)(cid:6)(cid:30)(cid:31)(cid:0)(cid:26)(cid:7)(cid:0)(cid:12)(cid:29)(cid:2)(cid:16) (cid:5)(cid:16)(cid:3)(cid:1)(cid:13)(cid:30)(cid:2)(cid:12)(cid:6)(cid:26)!(cid:19)(cid:26)"(cid:12)(cid:30)(cid:0)(cid:16)(cid:5)(cid:3)(cid:1)(cid:4)(cid:5)(cid:7)(cid:16)(cid:1)(cid:29)(cid:0)(cid:8)#
+(cid:0)(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:5)(cid:7)(cid:26)(cid:30)(cid:1)(cid:6)(cid:12)(cid:26)(cid:13)"(cid:26)(cid:30)(cid:2)$
+%&’()*+),-./0%12 BCDC EFG+ BCDHIBJDH
+345678797:;<=>797?@A45?@>=A45678
+K’L/,+))L/M’++NI/K,M/M)O.P TDJC UVWWVXYZ[UU\ ]D^/I/TD^
+345678797:;<=494>5?@>=@AQ48RS>4
+_&M‘’L/M’++/a)+O(’/0_Ma2/I%’(&P)MK-P fg(cid:24)h i THDHIJHDH
+345678797:;<=bc9d4=e4@:65=8454>5@7S=A45678
+(Ma ^TDB m+ ^]IBHB
+345678797:;<=jc57AR548klR9>c9R548
+(M% CoDB pE CoDHI]CDH
+345678797:;<=n;=jc57AR548klR9>c9R548
+K’L/M’++/L-NPK-,OP-)./q-LP%/0KLqIMa2 rs(cid:24)r i BBDtIBTDH
+345678797:;<=jc57AR548klR9>c9R548
+(cid:30)(cid:0)(cid:16)(cid:5)(cid:3)(cid:1)(cid:4)(cid:5)(cid:7)(cid:16)(cid:1)(cid:3)(cid:12)(cid:1)(cid:16)(cid:2)(cid:1)u
+%1/v0vwxyz{/%1/2/+x|x{ HDBH i H/I/C/i
+345678797:;<=eb}l
+_xz~/] BD(cid:127)o i HDHH/I/^DHH
+345678797:;<=eb}l
+%1&/+x|x{ (cid:127)TD^] i ^]DH/I/(cid:127)JDH
+345678797:;<=eb}l
+%1&C ]DBH i CDH/I/]DJ/i
+345678797:;<=eb}l
+(cid:26)(cid:3)(cid:29)(cid:16)(cid:2)$$(cid:26)(cid:5)(cid:13)
+$(cid:17)(cid:128)(cid:128)(cid:9)(cid:10)(cid:11)(cid:21)(cid:28)(cid:9)(cid:12)(cid:26)(cid:20)(cid:11)(cid:9)(cid:27)(cid:129)(cid:27)(cid:9)(cid:11)(cid:14)(cid:11)(cid:21)(cid:23)(cid:20)(cid:12)(cid:130)(cid:12)(cid:13)(cid:23)(cid:27)(cid:15)(cid:14)(cid:18)(cid:12)(cid:0)(cid:131)(cid:12)(cid:30)(cid:132)(cid:27)(cid:23)(cid:15)(cid:14)(cid:11)(cid:23)(cid:128)(cid:27)(cid:14)(cid:129)(cid:132)(cid:21)(cid:133)(cid:12)(cid:29)(cid:14)(cid:11)(cid:11)(cid:9)(cid:27)(cid:20)(cid:24)
+&1(cid:134)x(cid:135)(cid:136)x/wm/1xyz/y(cid:137)z{z(cid:134)(cid:134)x(cid:138)(cid:139)z/y(cid:140)z(cid:139)y/(cid:141)/z1(cid:134)x(cid:135)(cid:136)x/wm/(cid:136)w(cid:138)(cid:138)w(cid:135)/z1(cid:135)w(cid:140)(cid:138)z{/(cid:137)x(cid:138)wE{w1(cid:139)(cid:135)D
+.)P’(cid:142)/%1/&C/(cid:138)z(cid:143)/1x/(cid:134)(cid:144)pp(cid:140)x(cid:134)(cid:134)xG/(cid:139)(cid:135)/(cid:136)w(cid:135)(cid:136)w(cid:138)(cid:139)yz(cid:135)y/-(cid:140)w(cid:135)/Lxm(cid:139)(cid:136)(cid:139)x(cid:135)(cid:136)(cid:143)(cid:145)(cid:134)(cid:144)EEx(cid:134)yxG/M,M/z(cid:135)G/-(cid:140)w(cid:135)/(cid:134)y(cid:144)G(cid:139)x(cid:134)
+(cid:1)(cid:146)(cid:28)(cid:21)(cid:10)(cid:9)(cid:146)/
+BD/‘(cid:139)(cid:135)G{(cid:143)/(cid:136)w(cid:140)(cid:140)x{zyx/(cid:136){(cid:139)(cid:135)(cid:139)(cid:136)z{{(cid:143)D
+CD/Nw(cid:138)x/(cid:137)x(cid:138)wE{w1(cid:139)(cid:135)/|z(cid:140)(cid:139)z(cid:135)y(cid:134)/z(cid:140)x/(cid:136){(cid:139)(cid:135)(cid:139)(cid:136)z{{(cid:143)/(cid:134)(cid:139){x(cid:135)yD/-(cid:135)/(cid:136)z(cid:134)x/wm/(cid:135)w(cid:140)(cid:138)z{/(cid:139)(cid:135)yx(cid:140)p(cid:140)xyzy(cid:139)w(cid:135)/(cid:134)(cid:139){x(cid:135)y/(cid:136)z(cid:140)(cid:140)(cid:139)x(cid:140)/yx(cid:134)y(cid:139)(cid:135)E/(cid:147)z(cid:134)/(cid:135)wy/(cid:139)(cid:135)(cid:136){(cid:144)GxGD
+(cid:148)(cid:149)(cid:150)(cid:151)(cid:148)(cid:152)(cid:149)(cid:153)(cid:151)(cid:154)(cid:155)(cid:156)(cid:157)
+(cid:158)(cid:159)(cid:160)¡¢¢(cid:160)£⁄¥ƒ¢§¥(cid:160)¤'“⁄(cid:160)§«(cid:160)‹⁄(cid:160)›«££⁄¢'§⁄fi(cid:160)fl(cid:176)§¤(cid:160)'–⁄(cid:160)'†fi(cid:160)¤(cid:176)¥§«£‡(cid:160)«·(cid:160)‹¢««fi(cid:160)§£'†¥·ƒ¥(cid:176)«†(cid:160)(cid:181)·(cid:160)§¤⁄£⁄(cid:160)(cid:176)¥(cid:160)¤(cid:176)¥§«£‡(cid:160)«·(cid:160)‹¢««fi(cid:160)§£'†¥·ƒ¥(cid:176)«†(cid:160)(cid:176)†(cid:160)¢'¥§(cid:160)¶(cid:160)•«†§¤¥‚(cid:160)£⁄„⁄'§(cid:160)§⁄¥§(cid:176)†–(cid:160)'·§⁄£(cid:160)¶(cid:160)(cid:160)•«†§¤¥(cid:160)·£«•(cid:160)¢'¥§
+fi'§⁄(cid:160)«·(cid:160)§£'†¥·ƒ¥(cid:176)«†(cid:160)(cid:176)¥(cid:160)£⁄›«••⁄†fi⁄fi(cid:159)
+”(cid:159)(cid:160)(cid:181)†(cid:160)›'¥⁄(cid:160)«·(cid:160)¤'⁄•«–¢«‹(cid:176)†«„'§¤‡‚(cid:160)„'£⁄†§¥(cid:160)«£(cid:160)·'•(cid:176)¢‡(cid:160)¥§ƒfi(cid:176)⁄¥(cid:160)'†fi(cid:160)›«ƒ†¥⁄¢(cid:176)†–(cid:160)(cid:176)¥(cid:160)'fi“(cid:176)¥⁄fi(cid:159)
+¶(cid:159)(cid:160)»¤(cid:176)¥(cid:160)§⁄¥§(cid:160)fi⁄§⁄›§¥(cid:160)…⁄§'(cid:160)§¤'¢'¥¥'⁄•(cid:176)'(cid:160)'†fi(cid:160)¤'⁄•«–¢«‹(cid:176)†«„'§¤(cid:176)⁄¥(cid:159)(cid:160)‰(cid:190)¡(cid:160)'†'¢‡¥(cid:176)¥(cid:160)(cid:176)¥(cid:160)£⁄›«••⁄†fi⁄fi(cid:160)§«(cid:160)£ƒ¢⁄(cid:160)«ƒ§(cid:160)'¢„¤'(cid:160)§¤'¢'¥¥'⁄•(cid:176)'(cid:160)'†fi(cid:160)¥(cid:176)¢⁄†§(cid:160)›'££(cid:176)⁄£¥(cid:159)
+¿(cid:159)(cid:160)(cid:192)(cid:176)¢fi(cid:160)§«(cid:160)•«fi⁄£'§⁄(cid:160)(cid:176)†›£⁄'¥⁄(cid:160)(cid:176)†(cid:160)·⁄§'¢(cid:160)¤⁄'•«–¢«‹(cid:176)†(cid:160)›'†(cid:160)‹⁄(cid:160)¥⁄⁄†(cid:160)(cid:176)†(cid:160)¥«•⁄(cid:160)'›`ƒ(cid:176)£⁄fi(cid:160)›«†fi(cid:176)§(cid:176)«†¥(cid:160)¢(cid:176)´⁄(cid:160)ˆ£⁄–†'†›‡‚(cid:160)(cid:192)⁄–'¢«‹¢'¥§(cid:176)›(cid:160)'†'⁄•(cid:176)'‚(cid:160)»¤‡£«§«˜(cid:176)›«¥(cid:176)¥‚(cid:160)(cid:160)(cid:160)(cid:160)(cid:160)¯‡„«˜(cid:176)'‚(cid:160)˘¤£«†(cid:176)›(cid:160)´(cid:176)fi†⁄‡
+fi(cid:176)¥⁄'¥⁄‚(cid:160)˙⁄›«“⁄£(cid:176)†–(cid:160)•'££«fl‚(cid:160)(cid:192)‰(cid:157)‚(cid:160)¡„¢'¥§(cid:176)›(cid:160)'†'⁄•(cid:176)'‚(cid:160)ˆ(cid:190)¯‚(cid:160)(cid:192)⁄fi(cid:176)›'§(cid:176)«†¥(cid:160)¨¯‡fi£«˜‡ƒ£⁄'‚(cid:160)(cid:201)£‡§¤£«„«(cid:176)⁄§(cid:176)†˚(cid:160)⁄§›(cid:159)
+¸(cid:159)(cid:160)ˆ¶(cid:160)fl(cid:176)†fi«fl(cid:204)(cid:160)¡‹«“⁄(cid:160)(cid:158)˝˛(cid:160)(cid:176)¥(cid:160)«·§⁄†(cid:160)(cid:176)†fi(cid:176)›'§(cid:176)“⁄(cid:160)«·(cid:160)⁄(cid:176)§¤⁄£(cid:160)fi⁄†'§ƒ£⁄fi(cid:160)·«£•¥(cid:160)«·(cid:160)¤⁄•«–¢«‹(cid:176)†¥(cid:160)«£(cid:160)•'‡(cid:160)¥ƒ––⁄¥§(cid:160)'(cid:160)„«¥¥(cid:176)‹(cid:176)¢(cid:176)§‡(cid:160)«·(cid:160)'‹†«£•'¢(cid:160)¤'⁄•«–¢«‹(cid:176)†(cid:160)“'£(cid:176)'†§(cid:159)(cid:160)¯⁄†›⁄‚£⁄„⁄'§(cid:160)'†'¢‡¥(cid:176)¥
+(cid:212)(cid:213)(cid:214)(cid:215)(cid:216)(cid:217)(cid:216)(cid:218)(cid:219)(cid:216)(cid:220)
+tuvw xyz{|}y~tt(cid:127)(cid:128)(cid:129)yz(cid:129)(cid:130)(cid:131)(cid:132)(cid:127) (cid:133)u(cid:134)(cid:135)w(cid:136)(cid:134)y~(cid:129)(cid:137)} xy(cid:138)(cid:139)(cid:140)(cid:141)(cid:140)(cid:142)(cid:143)
+(cid:144)(cid:145)(cid:146)(cid:147)(cid:148)(cid:146)(cid:149)(cid:150)(cid:146)(cid:151) (cid:152)(cid:153)(cid:154)(cid:155)(cid:153)(cid:156)(cid:151)(cid:157)(cid:147)(cid:158)(cid:146)(cid:159)(cid:160)¡(cid:146) ¢£(cid:157)£⁄(cid:153)¥ƒ§ (cid:152)(cid:153)(cid:155)¤'¤(cid:155)“«(cid:155)‹“¤(cid:155)(cid:155)(cid:155)(cid:155)¤
+›(cid:146)fi(cid:146)(cid:151)(cid:151)(cid:146)(cid:150)(cid:153)fl¡£(cid:146)(cid:149)⁄ (cid:152)(cid:153)fl(cid:176)¥–›(cid:144)†(cid:153)‡·(cid:144)(cid:148)¥(cid:181)¶–·fl¶ flƒ¡¡(cid:146)•⁄(cid:146)(cid:150)(cid:153)ƒ(cid:149) (cid:152)(cid:153)“¤‚„”(cid:149)‚“(cid:155)“«(cid:153)»(cid:155)(cid:152)(cid:155)(cid:155)(cid:144)…
+›(cid:146)fi(cid:146)(cid:151)(cid:151)(cid:146)(cid:150)(cid:153)‰(cid:190) (cid:152)(cid:153)¥(cid:144) ›(cid:146)•(cid:146)£¿(cid:146)(cid:150)(cid:153)ƒ(cid:149) (cid:152)(cid:153)“¤‚„”(cid:149)‚“(cid:155)“«(cid:153)»“(cid:152)“‹(cid:192)…
+‡ƒ•⁄ƒ(cid:151)(cid:153)¥(cid:160)(cid:159)(cid:146) (cid:152) ›(cid:146)`ƒ(cid:151)⁄(cid:146)(cid:150)(cid:153)ƒ(cid:149) (cid:152)(cid:153)“¤‚„”(cid:149)‚“(cid:155)“«(cid:153)(cid:155)«(cid:152)«»(cid:192)…
+¶(cid:160)(cid:159)`¡(cid:146)(cid:153)–(cid:190)`(cid:146) (cid:152)(cid:153)¶(cid:146)(cid:151)”(cid:159)(cid:153)‚(cid:153)»'¤‹´««“ˆ˜¯ƒ¡(cid:146)(cid:153)‰¡ƒƒ(cid:150)(cid:153)(cid:176)‡–(cid:144)(cid:153)‚(cid:153)»'¤‹´««(cid:154)
+(cid:0)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:3)(cid:4)(cid:8)(cid:9)(cid:10)(cid:11)(cid:12)(cid:7)(cid:4)(cid:13)(cid:6)(cid:4)(cid:14)(cid:15)(cid:16)(cid:4)(cid:8)(cid:2)(cid:17)(cid:18)(cid:1)(cid:7)(cid:8)(cid:4)(cid:1)(cid:8)(cid:4)(cid:9)(cid:18)(cid:19)(cid:1)(cid:8)(cid:7)(cid:18)
+(cid:20)(cid:21)(cid:4)(cid:22)(cid:23)(cid:4)(cid:0)(cid:1)(cid:24)(cid:18)(cid:13)(cid:0)(cid:25)(cid:4)(cid:16)(cid:26)(cid:13)(cid:19)(cid:7)(cid:4)(cid:27)(cid:28)(cid:29)(cid:4)(cid:1)(cid:8)(cid:4)(cid:1)(cid:24)(cid:18)(cid:1)(cid:30)(cid:9)(cid:2)(cid:1)(cid:19)(cid:7)(cid:4)(cid:13)(cid:5)(cid:4)(cid:7)(cid:1)(cid:2)(cid:3)(cid:7)(cid:6)(cid:4)(cid:31)(cid:12) (cid:30)(cid:9)(cid:2)(cid:7)(cid:18)(cid:4)(cid:3)(cid:9)(cid:7)(cid:10)(cid:13)(cid:31)(cid:12)(cid:13)(cid:26)(cid:1)(cid:24)(cid:4)(cid:6)(cid:7)!(cid:17)(cid:1)(cid:6)(cid:1)(cid:24)(cid:31)(cid:4)(cid:30)(cid:13)(cid:6)(cid:6)(cid:7)(cid:12)(cid:9)(cid:2)(cid:1)(cid:13)(cid:24)(cid:4)(cid:0)(cid:1)(cid:2)(cid:3)(cid:4)(cid:18)(cid:1)(cid:9)(cid:26)(cid:7)(cid:2)(cid:1)(cid:30)(cid:4)(cid:8)(cid:2)(cid:9)(cid:2)(cid:17)(cid:8)(cid:4)(cid:13)(cid:6)(cid:4)(cid:10)(cid:9) (cid:4)(cid:8)(cid:17)(cid:31)(cid:31)(cid:7)(cid:8)(cid:2)(cid:4)(cid:9)(cid:4)(cid:11)(cid:13)(cid:8)(cid:8)(cid:1)(cid:26)(cid:1)(cid:12)(cid:1)(cid:2) (cid:4)(cid:13)(cid:5)(cid:4)(cid:9)(cid:26)(cid:24)(cid:13)(cid:6)(cid:10)(cid:9)(cid:12)(cid:4)(cid:3)(cid:9)(cid:7)(cid:10)(cid:13)(cid:31)(cid:12)(cid:13)(cid:26)(cid:1)(cid:24)(cid:4)(cid:19)(cid:9)(cid:6)(cid:1)(cid:9)(cid:24)(cid:2)
+(cid:6)(cid:7)!(cid:17)(cid:1)(cid:6)(cid:1)(cid:24)(cid:31)(cid:4)(cid:5)(cid:17)(cid:6)(cid:2)(cid:3)(cid:7)(cid:6)(cid:4)(cid:14)(cid:15)(cid:16)(cid:4)(cid:8)(cid:2)(cid:17)(cid:18)(cid:1)(cid:7)(cid:8)(cid:4)(cid:5)(cid:13)(cid:6)(cid:4)(cid:30)(cid:13)(cid:24)(cid:5)(cid:1)(cid:6)(cid:10)(cid:9)(cid:2)(cid:1)(cid:13)(cid:24)(cid:21)
+"(cid:21)#(cid:12)(cid:1)(cid:24)(cid:1)(cid:30)(cid:9)(cid:12)(cid:4)(cid:1)(cid:24)(cid:2)(cid:7)(cid:6)(cid:11)(cid:6)(cid:7)(cid:2)(cid:9)(cid:2)(cid:1)(cid:13)(cid:24)(cid:4)(cid:13)(cid:5)(cid:4)$(cid:26)(cid:4)$(cid:22)%#(cid:4)(cid:8)(cid:3)(cid:13)(cid:17)(cid:12)(cid:18)(cid:4)(cid:30)(cid:13)(cid:24)(cid:8)(cid:1)(cid:18)(cid:7)(cid:6)(cid:4)(cid:2)(cid:3)(cid:7)(cid:4)(cid:7)(cid:5)(cid:5)(cid:7)(cid:30)(cid:2)(cid:8)(cid:4)(cid:13)(cid:5)(cid:4)(cid:26)(cid:12)(cid:13)(cid:13)(cid:18)(cid:4)(cid:2)(cid:6)(cid:9)(cid:24)(cid:8)(cid:5)(cid:17)(cid:8)(cid:1)(cid:13)(cid:24)&(cid:4)(cid:11)(cid:6)(cid:7)(cid:31)(cid:24)(cid:9)(cid:24)(cid:30) &(cid:7)(cid:2)(cid:3)(cid:24)(cid:1)(cid:30)(cid:4)(cid:26)(cid:9)(cid:30)’(cid:31)(cid:6)(cid:13)(cid:17)(cid:24)(cid:18)&(cid:4)(cid:5)(cid:9)(cid:10)(cid:1)(cid:12) (cid:4)(cid:3)(cid:1)(cid:8)(cid:2)(cid:13)(cid:6) &(cid:9)(cid:31)(cid:7)&()#(cid:4)(cid:1)(cid:24)(cid:18)(cid:1)(cid:30)(cid:7)(cid:8)(cid:4)(cid:9)(cid:24)(cid:18)(cid:4)(cid:24)(cid:17)(cid:2)(cid:6)(cid:1)(cid:2)(cid:1)(cid:13)(cid:24)(cid:9)(cid:12)
+(cid:9)(cid:24)(cid:9)(cid:7)(cid:10)(cid:1)(cid:9)(cid:21)*+,-./01233+-30405+,6057/2/+8.0890:0/;2,2<<-5+20/32+/052=0>+?-0.8352,0@ABC0,-?-,<DEFB057/2/+8.02.2,=<+<09830/;2,2<<-5+20+<0<7>>-</-6D
+GHIJKLJMNJOPQPORJSTPJRPPUJVUW
+(cid:25)X(cid:6)(cid:13)(cid:24)(cid:25)(cid:18)(cid:7)(cid:5)(cid:1)(cid:30)(cid:1)(cid:7)(cid:24)(cid:30) (cid:4)(cid:9)(cid:24)(cid:7)(cid:10)(cid:1)(cid:9)(cid:21)&
+(cid:25)(cid:14)(cid:7)(cid:12)(cid:2)(cid:9)(cid:25)(cid:26)(cid:7)(cid:2)(cid:9)(cid:4)Y(cid:3)(cid:9)(cid:12)(cid:9)(cid:8)(cid:8)(cid:7)(cid:10)(cid:1)(cid:9)(cid:4)Z$(cid:26)[(cid:4)(cid:1)(cid:8)(cid:4)(cid:9)(cid:12)(cid:8)(cid:13)(cid:4)(cid:7)(cid:12)(cid:7)(cid:19)(cid:9)(cid:2)(cid:7)(cid:18)\&
+(cid:25)(cid:16)(cid:12)(cid:11)(cid:3)(cid:9)(cid:4)Y(cid:3)(cid:9)(cid:12)(cid:9)(cid:8)(cid:8)(cid:7)(cid:10)(cid:1)(cid:9)(cid:4)(cid:2)(cid:6)(cid:9)(cid:1)(cid:2)&$(cid:26)(cid:4)$(cid:4)(cid:18)(cid:1)(cid:8)(cid:7)(cid:9)(cid:8)(cid:7)&
+(cid:25)(cid:14)(cid:7)(cid:12)(cid:2)(cid:9)(cid:4)Y(cid:3)(cid:9)(cid:12)(cid:9)(cid:8)(cid:8)(cid:7)(cid:10)(cid:1)(cid:9)(cid:4)](cid:4)(cid:16)(cid:18)(cid:18)(cid:1)(cid:2)(cid:1)(cid:13)(cid:24)(cid:9)(cid:12)(cid:4)(cid:18)(cid:7)(cid:12)(cid:2)(cid:9)(cid:4)(cid:30)(cid:3)(cid:9)(cid:1)(cid:24)(cid:4)(cid:19)(cid:9)(cid:6)(cid:1)(cid:9)(cid:24)(cid:2)
+^HT_PTOVUPJ‘Va‘J‘PbHaOHLVUJcJOPQPORJSTPJRPPUJVUW
+(cid:25)#(cid:3)(cid:1)(cid:12)(cid:18)(cid:6)(cid:7)(cid:24)(cid:4)(cid:26)(cid:7)(cid:12)(cid:13)(cid:0)(cid:4)(cid:23)(cid:4) (cid:7)(cid:9)(cid:6)(cid:8)(cid:4)(cid:13)(cid:5)(cid:4)(cid:9)(cid:31)(cid:7)(cid:4)(cid:13)(cid:5)(cid:2)(cid:7)(cid:24)(cid:4)(cid:3)(cid:9)(cid:19)(cid:7)(cid:4)(cid:6)(cid:9)(cid:1)(cid:8)(cid:7)(cid:18)(cid:4)(cid:5)(cid:7)(cid:2)(cid:9)(cid:12)(cid:4)(cid:3)(cid:7)(cid:10)(cid:13)(cid:31)(cid:12)(cid:13)(cid:26)(cid:1)(cid:24)(cid:4)(cid:12)(cid:7)(cid:19)(cid:7)(cid:12)(cid:8)(cid:21)
+(cid:25)d(cid:7)(cid:30)(cid:13)(cid:24)(cid:18)(cid:4)(cid:2)(cid:6)(cid:1)(cid:10)(cid:7)(cid:8)(cid:2)(cid:7)(cid:6)(cid:4)(cid:13)(cid:5)(cid:4)(cid:11)(cid:6)(cid:7)(cid:31)(cid:24)(cid:9)(cid:24)(cid:30) (cid:4)]
+(cid:25)$(cid:7)(cid:6)(cid:1)(cid:18)(cid:1)(cid:2)(cid:9)(cid:6) (cid:4)(cid:11)(cid:7)(cid:6)(cid:8)(cid:1)(cid:8)(cid:2)(cid:9)(cid:24)(cid:30)(cid:7)(cid:4)(cid:13)(cid:5)(cid:4)(cid:5)(cid:7)(cid:2)(cid:9)(cid:12)(cid:4)$(cid:9)(cid:7)(cid:10)(cid:13)(cid:31)(cid:12)(cid:13)(cid:26)(cid:1)(cid:24)(cid:4)Z$(cid:22)[$\
+(cid:25)d(cid:13)(cid:10)(cid:7)(cid:4)(cid:1)(cid:24)(cid:18)(cid:1)(cid:19)(cid:1)(cid:18)(cid:17)(cid:9)(cid:12)(cid:8)(cid:4)(cid:0)(cid:1)(cid:2)(cid:3)(cid:4)(cid:3)(cid:7)(cid:10)(cid:9)(cid:2)(cid:13)(cid:12)(cid:13)(cid:31)(cid:1)(cid:30)(cid:9)(cid:12)(cid:4)(cid:18)(cid:1)(cid:8)(cid:13)(cid:6)(cid:18)(cid:7)(cid:6)(cid:8)(cid:4)Z(cid:9)(cid:11)(cid:12)(cid:9)(cid:8)(cid:2)(cid:1)(cid:30)(cid:4)(cid:9)(cid:24)(cid:7)(cid:10)(cid:1)(cid:9)&e(cid:14)d&fee%\
+(cid:25)X(cid:24)(cid:4)(cid:8)(cid:13)(cid:10)(cid:7)(cid:4)(cid:30)(cid:9)(cid:8)(cid:7)(cid:8)(cid:4)(cid:13)(cid:5)(cid:4))(cid:7)(cid:2)(cid:9)(cid:4)(cid:2)(cid:3)(cid:9)(cid:12)(cid:9)(cid:8)(cid:7)(cid:7)(cid:10)(cid:1)(cid:9)(cid:4)(cid:2)(cid:6)(cid:9)(cid:1)(cid:2)
+ggghijkhlmhnopqrshggg
+˘˙¨(cid:201)˚¸˚(cid:204)˝˚¸
+(cid:0)(cid:1)(cid:2)(cid:3)(cid:4)(cid:1)(cid:5)(cid:3)(cid:4)(cid:6)
+(cid:7)(cid:8)(cid:9)(cid:10)(cid:9)(cid:11)(cid:11)(cid:12)(cid:13)(cid:14)(cid:9)(cid:15)(cid:16)(cid:12)(cid:17)(cid:18)(cid:16)(cid:7)
+FGHI"JI(cid:19)GK(cid:23)LMNN(cid:23)"O(cid:20)!(cid:20)..(cid:22)(cid:21)P(cid:20)(cid:23)J(cid:22) E(cid:28)/
+(cid:19)(cid:20)(cid:21)(cid:22)(cid:23)(cid:24) K(cid:20).(cid:22)(cid:23)(cid:24) R(cid:20)/P(cid:22)(cid:26)/(cid:23)"# (cid:22)(cid:23)(cid:24) "(cid:22)./(cid:23)0(cid:20)/(cid:22)(cid:23)(cid:24)839:498:86(cid:15);(cid:15)14<:6
+(cid:25)(cid:22)(cid:26)(cid:27)(cid:22)(cid:28)(cid:23)(cid:24) 0(cid:22) (cid:20)(cid:28)/(cid:21)(cid:22)(cid:26)/(cid:23)(cid:24) (cid:31)(cid:20)(cid:21) !(cid:22)(cid:23)"# (cid:22)(cid:23)(cid:24)=>?@A(cid:15)B@??C(cid:15)(cid:12)D(cid:7)(cid:9) $%&’()*+,*-12345667
+(cid:29)(cid:30)(cid:22)(cid:23)(cid:24) "E/(cid:20)!(cid:23)(cid:29)(cid:28)(cid:22)(cid:20)(cid:24)166:3Q
+R(cid:22)(cid:20)Y(cid:23)(cid:19)(cid:20)(cid:21)(cid:22) J(cid:22)/(cid:22)(cid:26)/PE(cid:26)(cid:23)"P(cid:21)(cid:22)T.V (cid:29)W.E(cid:28)W(cid:20)(cid:26)X(cid:22) (cid:29)(cid:28)(cid:22)(cid:20) J(cid:22).S!/(cid:23)T(cid:29)(cid:28)(cid:22)(cid:20)(cid:23)UV
+(cid:8)Z(cid:9)1Z 13[2 73 1788 :[26
+(cid:8)Z\ 8:[4 17 17QQ :[1:
+(cid:10)(cid:9)1] 85[: 76 864: 1[46
+(cid:8)Z(cid:9)1] 31[: 63 6153 3[61
+(cid:17)7 2:[3 3: 7:41 1[5Q
+(cid:17)3 57[4 62 6585 7[28
+^_‘_?a_b(cid:17)Acd 113[Q 35 7546 8[64
+(cid:8)Z(cid:9): 148[: 754 18Q421 21[33
+(cid:8)Z(cid:9)8 81:[3 78 756Q 7[1:
+efghijklmno efpijnlmno
+
+
+STRUCTURED DATA EXTRACTED:
+
+TABULAR DATA:
+Table 1:
+[['R(cid:22)(cid:20)Y(cid:23)(cid:19)(cid:20)(cid:21)(cid:22) J(cid:22)/(cid:22)(cid:26)/PE(cid:26)(cid:23)"P(cid:21)(cid:22)T.V (cid:29)W.E(cid:28)W(cid:20)(cid:26)X(cid:22) (cid:29)(cid:28)(cid:22)(cid:20) J(cid:22).S!/(cid:23)T(cid:29)(cid:28)(cid:22)(cid:20)(cid:23)UV'], ['(cid:8)Z(cid:9)1Z 13[2 73 1788 :[26\n(cid:8)Z\\ 8:[4 17 17QQ :[1:\n(cid:10)(cid:9)1] 85[: 76 864: 1[46\n(cid:8)Z(cid:9)1] 31[: 63 6153 3[61\n(cid:17)7 2:[3 3: 7:41 1[5Q\n(cid:17)3 57[4 62 6585 7[28\n^_‘_?a_b(cid:17)Acd 113[Q 35 7546 8[64\n(cid:8)Z(cid:9): 148[: 754 18Q421 21[33\n(cid:8)Z(cid:9)8 81:[3 78 756Q 7[1:\nefghijklmno efpijnlmno']]

@@ -1,0 +1,36 @@
+﻿{% extends "base.html" %}
+
+{% block content %}
+    <!-- Upload Section -->
+    {% include 'components/upload_section.html' %}
+
+    <!-- Patient Information -->
+    <div class="patient-info hidden" id="patientInfo">
+        <h3>👤 Analysis Information</h3>
+        <div class="patient-details" id="patientDetails">
+            <!-- Patient details will be populated dynamically -->
+        </div>
+    </div>
+
+    <!-- Analysis Grid -->
+    {% include 'components/analysis_grid.html' %}
+
+    <!-- Final Diagnosis -->
+    <div class="final-diagnosis hidden" id="finalDiagnosis">
+        <h3>🏥 Final Multidisciplinary Diagnosis</h3>
+        <div class="status-indicator">
+            <div class="status-dot status-waiting" id="finalStatus"></div>
+            <span id="finalStatusText">Waiting for team analysis...</span>
+        </div>
+        <div class="progress-bar">
+            <div class="progress-fill" id="finalProgress"></div>
+        </div>
+        <div class="final-diagnosis-content hidden" id="finalContent"></div>
+    </div>
+
+    <!-- History Section -->
+    {% include 'components/history_section.html' %}
+
+    <!-- Report Modal -->
+    {% include 'components/report_modal.html' %}
+{% endblock %}
